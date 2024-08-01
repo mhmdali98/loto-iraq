@@ -1,5 +1,23 @@
 $dark-shadow: 0px 1px 10px 1px #404040, 0px 1px 1px 1px #2a2a2a, 0px 2px 8px -1px #141414;
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #313942;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #530404;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #5a0303;
+}
 @-webkit-keyframes fadeIn2 {
   0% {
     opacity: 0

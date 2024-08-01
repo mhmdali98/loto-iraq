@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="">
+    <div class="body">
       <div class="">
         <section id="home" v-if="store.page === 0">
           <video-banner />
@@ -92,4 +92,5 @@ useHead({
     position: relative;
   }
 }
+
 </style>
