@@ -1,0 +1,19 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(../../assets/ArbFONTS-TSRotger-Bold.otf);
+}
+.root {
+  height: 100vh;
+  background-image: linear-gradient(to bottom right, #330303, #000000);
+  font-family: myFirstFont;
+}
+.iraqmap {
+  position: absolute;
+  top: -30px;
+  left: 0px;
+}
+.iraqloto {
+  position: absolute;
+  top: 120px;
+  left: 95px;
+}
