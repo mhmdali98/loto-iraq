@@ -10,7 +10,7 @@
           <div class="text">
             <h4 class="use-text-title2">
               <span class="use-text-subtitle2">Vivamus sit amet</span>
-              The Lorem Ipsum Dolor Sit Amet
+              The Lorem Ipsum Dolor Sit 
             </h4>
             <div class="property">
               <div class="star">
